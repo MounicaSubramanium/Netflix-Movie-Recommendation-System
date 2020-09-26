@@ -1,5 +1,5 @@
 # Netflix-Movie-Recommendation-System
-A classic recommendation system machine learning problem to predict movie rating to be given by a user for [Netflix](https://www.netflix.com).
+A classic recommendation system machine learning problem to predict movie rating to be given by a user that he/she has not yet rated on [Netflix](https://www.netflix.com).
 
 It is also seen as a regression problem.
 
